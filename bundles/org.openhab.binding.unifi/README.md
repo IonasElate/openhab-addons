@@ -103,7 +103,7 @@ The following table describes the `poePort` configuration parameters:
 
 | Parameter  | Description                                               | Config   |
 |------------|-----------------------------------------------------------|----------|
-| portNumber | The port number as reported by the switch (starts with 1) | Required |
+| portIdx    | The port number as reported by the switch (starts with 1) | Required |
 | macAddress | The MAC address of the switch device the port is part of  | Required |
 
 
